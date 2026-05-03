@@ -1,0 +1,501 @@
+customer_id,full_name,date_of_birth,country_of_residence,nationality,occupation,risk_rating,pep_flag,account_open_date,kyc_status,segment
+CUST0001,Customer_0001,1975-04-05,Panama,Panama,Software Engineer,Medium,No,2022-04-27 02:37:00,Verified,Retail
+CUST0002,Customer_0002,1994-07-08,USA,USA,Trader,Low,No,2022-07-26 08:51:00,Pending,Corporate
+CUST0003,Customer_0003,1969-04-25,Singapore,Singapore,Student,Low,No,2019-11-02 02:24:00,Verified,Corporate
+CUST0004,Customer_0004,1994-02-13,Panama,Panama,Software Engineer,Medium,No,2022-05-11 09:53:00,Verified,Private Banking
+CUST0005,Customer_0005,1962-11-08,France,France,Retired,Low,No,2019-09-17 07:55:00,Verified,Retail
+CUST0006,Customer_0006,1982-04-22,UK,UK,Retired,Medium,No,2022-11-24 02:38:00,Verified,Retail
+CUST0007,Customer_0007,2000-12-18,Japan,Japan,Lawyer,Low,No,2021-01-30 01:14:00,Pending,Corporate
+CUST0008,Customer_0008,1996-12-11,UK,UK,Lawyer,Low,No,2022-12-09 15:25:00,Pending,Corporate
+CUST0009,Customer_0009,1995-09-09,Germany,Germany,Banker,Low,No,2021-08-31 18:25:00,Verified,Private Banking
+CUST0010,Customer_0010,1963-02-05,Japan,Japan,Doctor,Low,Yes,2021-08-18 19:04:00,Verified,Retail
+CUST0011,Customer_0011,1960-11-24,Canada,Canada,Software Engineer,Low,No,2022-04-10 08:49:00,Verified,Retail
+CUST0012,Customer_0012,1976-09-25,Japan,Japan,Doctor,Low,Yes,2022-02-09 03:55:00,Verified,Corporate
+CUST0013,Customer_0013,1970-09-25,France,France,Real Estate Agent,Low,No,2019-04-08 19:20:00,Verified,Retail
+CUST0014,Customer_0014,1975-10-03,Canada,Canada,Software Engineer,Low,No,2021-12-27 02:48:00,Verified,Retail
+CUST0015,Customer_0015,1993-10-14,Canada,Canada,Lawyer,Medium,No,2022-04-15 23:44:00,Verified,Retail
+CUST0016,Customer_0016,1993-08-04,Cyprus,Cyprus,Lawyer,High,No,2020-07-10 02:21:00,Verified,Retail
+CUST0017,Customer_0017,2000-01-08,Panama,Panama,Software Engineer,Medium,Yes,2019-06-10 10:04:00,Verified,Retail
+CUST0018,Customer_0018,1996-10-16,Germany,Germany,Lawyer,Low,No,2021-11-30 13:12:00,Verified,Corporate
+CUST0019,Customer_0019,1963-11-21,Singapore,Singapore,Software Engineer,Low,No,2019-08-09 12:46:00,Verified,Private Banking
+CUST0020,Customer_0020,1968-07-06,France,France,Retired,Low,No,2021-11-09 07:55:00,Expired,Retail
+CUST0021,Customer_0021,1994-01-03,Nigeria,Nigeria,Lawyer,High,Yes,2020-03-12 13:31:00,Verified,Private Banking
+CUST0022,Customer_0022,1984-05-26,British Virgin Islands,British Virgin Islands,Trader,High,No,2020-11-11 13:44:00,Expired,Private Banking
+CUST0023,Customer_0023,1972-05-07,Japan,Japan,Business Owner,Medium,No,2022-07-06 23:34:00,Verified,Retail
+CUST0024,Customer_0024,1993-03-02,Japan,Japan,Real Estate Agent,Low,No,2019-09-18 05:04:00,Verified,Corporate
+CUST0025,Customer_0025,1996-04-19,UK,UK,Banker,Low,No,2019-06-27 19:05:00,Verified,Retail
+CUST0026,Customer_0026,1980-04-09,Canada,Canada,Government Official,Low,No,2019-12-31 21:41:00,Verified,Retail
+CUST0027,Customer_0027,1999-10-04,Cayman Islands,Cayman Islands,Software Engineer,Medium,Yes,2022-04-12 06:32:00,Verified,Private Banking
+CUST0028,Customer_0028,1970-08-27,Bahamas,Bahamas,Real Estate Agent,High,No,2020-12-16 19:51:00,Verified,Retail
+CUST0029,Customer_0029,1966-03-09,USA,USA,Software Engineer,Medium,No,2019-11-12 23:35:00,Verified,Retail
+CUST0030,Customer_0030,2000-05-17,Australia,Australia,Trader,Low,No,2020-09-02 01:05:00,Verified,Corporate
+CUST0031,Customer_0031,2000-05-06,Australia,Australia,Trader,Low,No,2022-05-10 22:27:00,Verified,Retail
+CUST0032,Customer_0032,1983-10-18,British Virgin Islands,British Virgin Islands,Doctor,High,No,2021-09-03 04:02:00,Verified,Private Banking
+CUST0033,Customer_0033,1973-11-08,Panama,Panama,Software Engineer,Medium,No,2021-03-31 17:56:00,Pending,Private Banking
+CUST0034,Customer_0034,1971-07-01,Bahamas,Bahamas,Doctor,Medium,No,2021-02-15 13:51:00,Verified,Corporate
+CUST0035,Customer_0035,1966-07-28,Germany,Germany,Business Owner,Low,No,2021-11-25 07:12:00,Pending,Retail
+CUST0036,Customer_0036,1972-07-11,France,France,Retired,Low,No,2019-08-27 08:22:00,Verified,Retail
+CUST0037,Customer_0037,1961-02-09,Nigeria,Nigeria,Doctor,High,No,2022-07-09 08:02:00,Verified,Retail
+CUST0038,Customer_0038,1992-02-13,UK,UK,Banker,Medium,No,2020-04-30 08:02:00,Verified,Retail
+CUST0039,Customer_0039,1972-06-14,Nigeria,Nigeria,Software Engineer,High,No,2022-12-27 10:39:00,Verified,Corporate
+CUST0040,Customer_0040,1986-06-13,USA,USA,Retired,Medium,No,2022-05-16 04:12:00,Verified,Private Banking
+CUST0041,Customer_0041,1979-07-18,British Virgin Islands,British Virgin Islands,Business Owner,Medium,No,2020-12-19 09:13:00,Verified,Retail
+CUST0042,Customer_0042,1973-09-16,France,France,Doctor,Medium,No,2022-12-16 02:18:00,Verified,Corporate
+CUST0043,Customer_0043,1974-04-05,France,France,Business Owner,Low,No,2019-07-10 07:30:00,Verified,Corporate
+CUST0044,Customer_0044,1984-08-13,France,France,Lawyer,Low,No,2020-02-03 20:44:00,Verified,Corporate
+CUST0045,Customer_0045,1974-03-26,Cayman Islands,Cayman Islands,Real Estate Agent,Medium,No,2021-11-13 01:35:00,Verified,Corporate
+CUST0046,Customer_0046,1995-10-11,Japan,Japan,Trader,Low,No,2022-09-12 23:57:00,Verified,Corporate
+CUST0047,Customer_0047,1990-08-09,Germany,Germany,Lawyer,Low,No,2022-11-02 08:49:00,Pending,Retail
+CUST0048,Customer_0048,1978-04-09,Japan,Japan,Student,Low,Yes,2021-01-20 17:05:00,Verified,Retail
+CUST0049,Customer_0049,1986-07-11,Japan,Japan,Real Estate Agent,Medium,No,2021-11-16 13:03:00,Verified,Retail
+CUST0050,Customer_0050,1961-10-13,Russia,Russia,Trader,High,No,2019-04-19 11:19:00,Pending,Private Banking
+CUST0051,Customer_0051,1994-10-08,Seychelles,Seychelles,Trader,High,No,2020-06-29 08:27:00,Verified,Retail
+CUST0052,Customer_0052,1989-03-20,Germany,Germany,Real Estate Agent,Medium,No,2019-06-01 12:37:00,Verified,Retail
+CUST0053,Customer_0053,1971-01-09,British Virgin Islands,British Virgin Islands,Government Official,Medium,No,2021-02-05 06:29:00,Verified,Corporate
+CUST0054,Customer_0054,1965-08-01,Singapore,Singapore,Real Estate Agent,Low,No,2019-07-22 11:14:00,Verified,Corporate
+CUST0055,Customer_0055,1972-01-20,Panama,Panama,Doctor,Medium,No,2020-08-07 04:30:00,Verified,Retail
+CUST0056,Customer_0056,1970-10-20,Canada,Canada,Software Engineer,Low,No,2020-03-07 09:06:00,Verified,Private Banking
+CUST0057,Customer_0057,1972-02-19,Germany,Germany,Lawyer,Medium,No,2019-11-01 22:49:00,Verified,Corporate
+CUST0058,Customer_0058,1982-09-14,Australia,Australia,Student,Medium,No,2019-08-26 16:41:00,Verified,Corporate
+CUST0059,Customer_0059,1983-11-27,Cayman Islands,Cayman Islands,Trader,Medium,No,2020-02-14 13:11:00,Verified,Private Banking
+CUST0060,Customer_0060,1997-05-11,Japan,Japan,Lawyer,Low,No,2019-10-01 08:56:00,Verified,Corporate
+CUST0061,Customer_0061,1961-08-28,Singapore,Singapore,Student,Medium,No,2020-04-13 15:13:00,Verified,Retail
+CUST0062,Customer_0062,1993-04-03,Canada,Canada,Lawyer,Low,No,2021-07-17 15:35:00,Pending,Corporate
+CUST0063,Customer_0063,1961-02-10,France,France,Lawyer,Medium,No,2021-07-13 22:15:00,Verified,Retail
+CUST0064,Customer_0064,1995-06-12,Australia,Australia,Trader,Low,No,2020-10-12 09:16:00,Verified,Corporate
+CUST0065,Customer_0065,1990-05-24,Germany,Germany,Banker,Low,No,2022-03-16 19:18:00,Expired,Corporate
+CUST0066,Customer_0066,1960-12-18,Australia,Australia,Doctor,Low,No,2020-10-19 01:03:00,Verified,Corporate
+CUST0067,Customer_0067,1960-10-10,Japan,Japan,Trader,Low,No,2021-12-12 14:21:00,Verified,Retail
+CUST0068,Customer_0068,1964-07-16,UAE,UAE,Software Engineer,High,No,2022-07-01 20:43:00,Verified,Retail
+CUST0069,Customer_0069,1975-02-18,USA,USA,Government Official,Medium,Yes,2022-08-30 19:50:00,Verified,Corporate
+CUST0070,Customer_0070,1997-07-10,Japan,Japan,Banker,Low,No,2022-09-29 01:39:00,Expired,Retail
+CUST0071,Customer_0071,1965-03-08,Singapore,Singapore,Doctor,Medium,No,2022-05-11 02:10:00,Verified,Retail
+CUST0072,Customer_0072,1978-12-10,USA,USA,Trader,Medium,Yes,2019-08-30 21:14:00,Expired,Corporate
+CUST0073,Customer_0073,1972-07-04,Singapore,Singapore,Real Estate Agent,Medium,No,2020-07-10 20:09:00,Expired,Corporate
+CUST0074,Customer_0074,1998-12-27,Germany,Germany,Banker,Low,No,2020-11-18 14:07:00,Verified,Retail
+CUST0075,Customer_0075,1991-08-03,Canada,Canada,Banker,Low,No,2019-06-27 13:47:00,Verified,Retail
+CUST0076,Customer_0076,1977-10-02,USA,USA,Doctor,Low,No,2021-11-25 16:41:00,Verified,Retail
+CUST0077,Customer_0077,1991-02-16,Seychelles,Seychelles,Student,High,No,2021-07-21 10:20:00,Verified,Private Banking
+CUST0078,Customer_0078,1985-09-02,Japan,Japan,Trader,Low,No,2019-10-04 10:16:00,Verified,Private Banking
+CUST0079,Customer_0079,1994-08-14,USA,USA,Business Owner,Low,No,2020-04-25 16:23:00,Verified,Retail
+CUST0080,Customer_0080,1995-03-10,USA,USA,Trader,Low,No,2021-12-24 03:01:00,Expired,Corporate
+CUST0081,Customer_0081,1960-09-14,Germany,Germany,Software Engineer,Low,No,2020-07-10 03:29:00,Expired,Corporate
+CUST0082,Customer_0082,1977-07-27,Canada,Canada,Trader,Low,No,2021-11-29 07:29:00,Verified,Retail
+CUST0083,Customer_0083,1968-02-09,Nigeria,Nigeria,Government Official,High,No,2021-03-03 16:17:00,Pending,Retail
+CUST0084,Customer_0084,1988-09-16,Japan,Japan,Student,Low,No,2021-02-15 17:48:00,Verified,Retail
+CUST0085,Customer_0085,1975-10-13,France,France,Lawyer,Low,No,2021-07-26 01:20:00,Verified,Corporate
+CUST0086,Customer_0086,1969-08-02,Germany,Germany,Doctor,Medium,No,2022-01-29 18:21:00,Pending,Private Banking
+CUST0087,Customer_0087,1969-07-28,Japan,Japan,Doctor,Low,Yes,2019-09-07 15:50:00,Expired,Retail
+CUST0088,Customer_0088,1981-11-28,Singapore,Singapore,Real Estate Agent,Medium,Yes,2021-05-24 10:40:00,Verified,Corporate
+CUST0089,Customer_0089,1975-11-22,Panama,Panama,Retired,High,No,2020-07-15 23:05:00,Verified,Retail
+CUST0090,Customer_0090,1979-01-02,Cayman Islands,Cayman Islands,Student,Medium,No,2019-07-30 09:22:00,Verified,Retail
+CUST0091,Customer_0091,1965-10-28,Germany,Germany,Government Official,Low,No,2022-09-27 21:15:00,Verified,Retail
+CUST0092,Customer_0092,1960-08-10,Canada,Canada,Real Estate Agent,Low,No,2020-02-24 02:28:00,Expired,Private Banking
+CUST0093,Customer_0093,1989-05-07,Singapore,Singapore,Government Official,Low,No,2021-12-21 03:15:00,Verified,Retail
+CUST0094,Customer_0094,1985-05-01,Canada,Canada,Banker,Low,Yes,2019-07-16 19:47:00,Verified,Private Banking
+CUST0095,Customer_0095,1982-04-21,France,France,Lawyer,Low,No,2022-09-29 08:43:00,Pending,Corporate
+CUST0096,Customer_0096,2000-11-02,British Virgin Islands,British Virgin Islands,Retired,Medium,No,2021-09-25 01:37:00,Verified,Retail
+CUST0097,Customer_0097,1971-04-05,Cyprus,Cyprus,Real Estate Agent,High,No,2021-04-25 16:32:00,Expired,Corporate
+CUST0098,Customer_0098,1978-12-28,Japan,Japan,Student,Low,No,2019-11-28 14:04:00,Verified,Private Banking
+CUST0099,Customer_0099,1995-06-03,Seychelles,Seychelles,Government Official,High,No,2019-05-05 08:34:00,Verified,Retail
+CUST0100,Customer_0100,2000-06-04,USA,USA,Lawyer,Medium,No,2021-11-27 00:39:00,Pending,Retail
+CUST0101,Customer_0101,2000-08-23,Bahamas,Bahamas,Retired,High,No,2022-11-26 13:07:00,Verified,Private Banking
+CUST0102,Customer_0102,1975-09-05,Japan,Japan,Government Official,Low,No,2021-10-22 11:42:00,Expired,Corporate
+CUST0103,Customer_0103,1966-08-20,Germany,Germany,Government Official,Low,No,2020-10-30 01:44:00,Verified,Retail
+CUST0104,Customer_0104,1983-09-21,Cyprus,Cyprus,Student,High,Yes,2019-08-09 12:17:00,Verified,Retail
+CUST0105,Customer_0105,1973-11-21,France,France,Banker,Medium,Yes,2019-05-20 01:50:00,Verified,Private Banking
+CUST0106,Customer_0106,1995-04-19,Bahamas,Bahamas,Lawyer,Medium,Yes,2020-07-27 10:49:00,Verified,Private Banking
+CUST0107,Customer_0107,1994-05-26,Germany,Germany,Doctor,Low,No,2019-11-18 21:55:00,Verified,Retail
+CUST0108,Customer_0108,1961-03-09,Bahamas,Bahamas,Business Owner,Medium,No,2019-12-22 23:26:00,Verified,Corporate
+CUST0109,Customer_0109,1966-08-17,Australia,Australia,Lawyer,Low,No,2022-09-17 01:46:00,Pending,Private Banking
+CUST0110,Customer_0110,1961-01-16,Japan,Japan,Government Official,Low,No,2021-08-27 21:06:00,Verified,Private Banking
+CUST0111,Customer_0111,1969-02-05,UK,UK,Retired,Low,No,2022-10-06 20:37:00,Verified,Retail
+CUST0112,Customer_0112,1992-10-14,Nigeria,Nigeria,Software Engineer,High,No,2019-11-27 20:41:00,Pending,Retail
+CUST0113,Customer_0113,1974-07-11,Seychelles,Seychelles,Trader,High,No,2021-07-01 13:46:00,Verified,Retail
+CUST0114,Customer_0114,1990-02-03,UK,UK,Software Engineer,Medium,No,2019-10-14 13:06:00,Verified,Retail
+CUST0115,Customer_0115,1995-09-11,USA,USA,Software Engineer,Low,No,2021-07-26 11:55:00,Verified,Corporate
+CUST0116,Customer_0116,1998-05-12,Panama,Panama,Software Engineer,High,No,2022-07-03 16:13:00,Verified,Retail
+CUST0117,Customer_0117,1983-02-25,UK,UK,Retired,Medium,No,2022-06-25 07:51:00,Verified,Retail
+CUST0118,Customer_0118,1995-01-20,Australia,Australia,Retired,Medium,No,2019-06-05 05:17:00,Verified,Retail
+CUST0119,Customer_0119,1969-10-22,USA,USA,Government Official,Low,No,2019-08-27 04:47:00,Verified,Retail
+CUST0120,Customer_0120,1989-06-06,Bahamas,Bahamas,Student,Medium,No,2021-01-04 23:20:00,Pending,Retail
+CUST0121,Customer_0121,1999-01-22,USA,USA,Software Engineer,Low,No,2020-10-15 14:42:00,Verified,Corporate
+CUST0122,Customer_0122,1967-06-14,France,France,Software Engineer,Low,No,2020-11-07 21:43:00,Verified,Retail
+CUST0123,Customer_0123,1998-01-01,France,France,Lawyer,Low,No,2020-12-14 06:49:00,Verified,Retail
+CUST0124,Customer_0124,1987-03-05,USA,USA,Government Official,Low,No,2022-04-01 22:14:00,Verified,Corporate
+CUST0125,Customer_0125,1962-07-01,Cayman Islands,Cayman Islands,Trader,Medium,No,2019-09-13 10:36:00,Verified,Retail
+CUST0126,Customer_0126,1961-06-06,USA,USA,Banker,Medium,No,2021-11-04 22:58:00,Verified,Retail
+CUST0127,Customer_0127,1993-02-13,Singapore,Singapore,Retired,Low,No,2021-03-02 07:21:00,Pending,Retail
+CUST0128,Customer_0128,1982-06-24,Canada,Canada,Doctor,Medium,No,2020-08-02 03:09:00,Verified,Retail
+CUST0129,Customer_0129,2000-08-15,UK,UK,Banker,Low,No,2022-07-06 14:43:00,Expired,Retail
+CUST0130,Customer_0130,2000-06-05,Australia,Australia,Trader,Medium,No,2019-08-24 15:28:00,Verified,Corporate
+CUST0131,Customer_0131,1979-08-15,UK,UK,Business Owner,Medium,No,2019-08-01 11:53:00,Verified,Corporate
+CUST0132,Customer_0132,1992-07-15,Cayman Islands,Cayman Islands,Banker,High,No,2022-05-16 23:57:00,Verified,Private Banking
+CUST0133,Customer_0133,1990-09-05,Bahamas,Bahamas,Business Owner,Medium,No,2021-10-15 03:51:00,Pending,Retail
+CUST0134,Customer_0134,1962-04-23,Canada,Canada,Trader,Medium,No,2021-09-22 16:33:00,Verified,Retail
+CUST0135,Customer_0135,1981-11-20,Seychelles,Seychelles,Business Owner,High,No,2022-10-20 20:21:00,Verified,Retail
+CUST0136,Customer_0136,1998-03-11,USA,USA,Software Engineer,Medium,No,2022-07-13 21:09:00,Expired,Retail
+CUST0137,Customer_0137,1998-12-03,Singapore,Singapore,Retired,Medium,No,2022-05-25 12:41:00,Pending,Corporate
+CUST0138,Customer_0138,1993-02-21,Japan,Japan,Government Official,Medium,No,2022-02-11 11:01:00,Verified,Retail
+CUST0139,Customer_0139,1968-03-03,Japan,Japan,Retired,Low,No,2019-10-31 16:49:00,Verified,Corporate
+CUST0140,Customer_0140,1999-03-20,Australia,Australia,Government Official,Low,No,2020-02-16 05:11:00,Pending,Corporate
+CUST0141,Customer_0141,1962-07-12,British Virgin Islands,British Virgin Islands,Lawyer,Medium,No,2021-10-02 19:18:00,Pending,Corporate
+CUST0142,Customer_0142,1990-04-12,France,France,Banker,Low,No,2021-09-25 14:49:00,Verified,Retail
+CUST0143,Customer_0143,1998-03-28,Germany,Germany,Retired,Low,No,2019-07-22 20:30:00,Pending,Retail
+CUST0144,Customer_0144,1970-05-15,UK,UK,Real Estate Agent,Low,No,2020-02-02 13:05:00,Expired,Retail
+CUST0145,Customer_0145,1986-01-13,Australia,Australia,Real Estate Agent,Low,No,2021-05-11 07:24:00,Expired,Retail
+CUST0146,Customer_0146,1981-03-05,UK,UK,Business Owner,Low,No,2020-11-14 15:44:00,Pending,Corporate
+CUST0147,Customer_0147,1961-05-07,USA,USA,Doctor,Low,No,2022-05-04 23:38:00,Verified,Retail
+CUST0148,Customer_0148,1975-07-21,Canada,Canada,Banker,Low,No,2021-10-29 02:07:00,Pending,Retail
+CUST0149,Customer_0149,1978-07-01,France,France,Banker,Low,No,2021-03-29 07:36:00,Verified,Corporate
+CUST0150,Customer_0150,1993-09-17,Australia,Australia,Real Estate Agent,Low,Yes,2022-05-15 00:24:00,Pending,Retail
+CUST0151,Customer_0151,1961-06-26,Australia,Australia,Software Engineer,Low,No,2021-03-13 07:46:00,Verified,Retail
+CUST0152,Customer_0152,1982-09-11,UK,UK,Doctor,Medium,No,2021-11-13 22:30:00,Verified,Corporate
+CUST0153,Customer_0153,1972-01-26,Japan,Japan,Lawyer,Low,Yes,2019-07-01 10:59:00,Verified,Retail
+CUST0154,Customer_0154,1972-05-12,France,France,Business Owner,Medium,No,2022-12-09 10:17:00,Verified,Retail
+CUST0155,Customer_0155,1984-06-06,UAE,UAE,Trader,High,No,2022-01-19 11:59:00,Pending,Retail
+CUST0156,Customer_0156,1998-03-18,Singapore,Singapore,Retired,Low,Yes,2021-01-23 03:05:00,Verified,Retail
+CUST0157,Customer_0157,1988-06-15,Singapore,Singapore,Business Owner,Low,No,2021-03-29 19:27:00,Verified,Private Banking
+CUST0158,Customer_0158,1985-06-17,Cayman Islands,Cayman Islands,Doctor,High,No,2019-06-09 04:54:00,Verified,Corporate
+CUST0159,Customer_0159,1983-06-13,UK,UK,Banker,Low,No,2019-06-12 19:09:00,Verified,Private Banking
+CUST0160,Customer_0160,1993-06-13,UK,UK,Student,Low,No,2022-11-27 08:15:00,Expired,Retail
+CUST0161,Customer_0161,1967-05-25,Singapore,Singapore,Retired,Low,No,2021-10-06 06:39:00,Verified,Private Banking
+CUST0162,Customer_0162,1964-08-06,UK,UK,Trader,Low,No,2019-10-03 21:54:00,Expired,Corporate
+CUST0163,Customer_0163,1979-03-23,Canada,Canada,Doctor,Medium,No,2021-04-16 16:14:00,Verified,Retail
+CUST0164,Customer_0164,1995-10-12,Japan,Japan,Trader,Low,Yes,2022-05-10 04:39:00,Pending,Retail
+CUST0165,Customer_0165,1986-10-03,Japan,Japan,Doctor,Low,No,2021-01-15 20:04:00,Verified,Corporate
+CUST0166,Customer_0166,1968-07-17,Germany,Germany,Business Owner,Low,No,2019-12-17 16:09:00,Verified,Retail
+CUST0167,Customer_0167,1993-05-28,Bahamas,Bahamas,Software Engineer,High,No,2020-09-01 06:40:00,Expired,Retail
+CUST0168,Customer_0168,1992-11-06,Australia,Australia,Banker,Medium,No,2022-07-09 04:10:00,Verified,Corporate
+CUST0169,Customer_0169,1961-02-02,Australia,Australia,Banker,Medium,Yes,2020-09-30 20:13:00,Pending,Retail
+CUST0170,Customer_0170,1994-05-21,France,France,Retired,Medium,No,2021-12-21 07:51:00,Pending,Retail
+CUST0171,Customer_0171,1986-08-15,USA,USA,Lawyer,Low,No,2021-03-03 19:09:00,Verified,Corporate
+CUST0172,Customer_0172,1968-06-17,UK,UK,Real Estate Agent,Medium,No,2019-11-10 10:15:00,Verified,Retail
+CUST0173,Customer_0173,1984-10-14,UK,UK,Lawyer,Low,Yes,2020-02-28 10:59:00,Verified,Retail
+CUST0174,Customer_0174,1989-08-10,France,France,Trader,Medium,No,2019-05-24 02:25:00,Verified,Private Banking
+CUST0175,Customer_0175,1978-08-20,Australia,Australia,Trader,Low,Yes,2020-11-12 17:00:00,Pending,Retail
+CUST0176,Customer_0176,1983-01-13,Cyprus,Cyprus,Business Owner,High,No,2022-06-17 17:12:00,Verified,Retail
+CUST0177,Customer_0177,1977-10-22,Japan,Japan,Banker,Low,No,2019-12-06 04:06:00,Verified,Corporate
+CUST0178,Customer_0178,1972-10-17,Australia,Australia,Government Official,Low,No,2022-01-25 01:02:00,Verified,Corporate
+CUST0179,Customer_0179,1998-09-05,Canada,Canada,Student,Medium,No,2022-09-13 10:10:00,Verified,Corporate
+CUST0180,Customer_0180,1992-09-16,Australia,Australia,Banker,Medium,No,2020-12-10 15:52:00,Verified,Retail
+CUST0181,Customer_0181,2000-01-20,Singapore,Singapore,Trader,Low,No,2020-10-01 20:50:00,Expired,Retail
+CUST0182,Customer_0182,1970-09-21,USA,USA,Banker,Low,No,2021-05-24 04:52:00,Verified,Retail
+CUST0183,Customer_0183,1988-06-14,Cayman Islands,Cayman Islands,Doctor,High,No,2021-07-30 22:13:00,Verified,Corporate
+CUST0184,Customer_0184,1993-04-18,Panama,Panama,Student,High,No,2022-12-23 15:33:00,Verified,Private Banking
+CUST0185,Customer_0185,1976-10-16,Australia,Australia,Lawyer,Low,No,2020-08-23 08:35:00,Verified,Private Banking
+CUST0186,Customer_0186,1991-06-16,Malta,Malta,Student,High,No,2022-05-28 23:17:00,Verified,Retail
+CUST0187,Customer_0187,1969-05-02,Singapore,Singapore,Retired,Low,No,2019-09-15 11:59:00,Verified,Retail
+CUST0188,Customer_0188,1977-09-23,France,France,Retired,Low,No,2020-01-13 03:39:00,Verified,Retail
+CUST0189,Customer_0189,1963-02-14,France,France,Student,Low,No,2021-11-29 03:43:00,Pending,Retail
+CUST0190,Customer_0190,1990-08-21,British Virgin Islands,British Virgin Islands,Lawyer,Medium,No,2020-11-15 10:18:00,Verified,Private Banking
+CUST0191,Customer_0191,1962-03-14,France,France,Doctor,Low,No,2019-06-20 12:50:00,Verified,Private Banking
+CUST0192,Customer_0192,1960-05-19,Malta,Malta,Banker,High,No,2019-11-12 10:18:00,Verified,Corporate
+CUST0193,Customer_0193,1989-05-07,Germany,Germany,Software Engineer,Low,No,2021-02-12 05:46:00,Verified,Retail
+CUST0194,Customer_0194,1996-11-25,Australia,Australia,Lawyer,Low,No,2020-03-31 19:54:00,Verified,Retail
+CUST0195,Customer_0195,1966-03-05,Australia,Australia,Trader,Low,Yes,2021-01-28 07:00:00,Verified,Retail
+CUST0196,Customer_0196,1996-01-09,UK,UK,Student,Medium,No,2020-08-02 01:42:00,Verified,Retail
+CUST0197,Customer_0197,2000-05-12,Canada,Canada,Banker,Low,No,2020-07-02 07:08:00,Verified,Retail
+CUST0198,Customer_0198,1995-08-25,Cyprus,Cyprus,Real Estate Agent,High,No,2022-12-27 06:48:00,Verified,Corporate
+CUST0199,Customer_0199,1993-12-12,Cayman Islands,Cayman Islands,Software Engineer,High,No,2022-06-05 03:03:00,Pending,Private Banking
+CUST0200,Customer_0200,1993-08-04,Germany,Germany,Lawyer,Low,No,2022-07-14 15:05:00,Pending,Retail
+CUST0201,Customer_0201,1989-10-02,Germany,Germany,Real Estate Agent,Low,No,2021-11-08 21:51:00,Verified,Retail
+CUST0202,Customer_0202,1997-02-02,USA,USA,Government Official,Low,No,2021-03-12 22:04:00,Verified,Retail
+CUST0203,Customer_0203,1986-03-25,UAE,UAE,Doctor,High,Yes,2022-11-10 23:41:00,Expired,Retail
+CUST0204,Customer_0204,1984-07-03,UAE,UAE,Real Estate Agent,High,No,2020-01-04 20:55:00,Verified,Retail
+CUST0205,Customer_0205,1974-01-25,Germany,Germany,Business Owner,Low,No,2020-12-08 14:43:00,Verified,Retail
+CUST0206,Customer_0206,1982-03-09,France,France,Lawyer,Low,No,2019-11-24 01:51:00,Verified,Corporate
+CUST0207,Customer_0207,1964-02-20,Panama,Panama,Business Owner,High,No,2021-10-07 19:43:00,Verified,Retail
+CUST0208,Customer_0208,1994-04-25,Germany,Germany,Business Owner,Medium,No,2020-01-18 16:18:00,Verified,Private Banking
+CUST0209,Customer_0209,1980-04-10,Australia,Australia,Doctor,Medium,No,2022-12-19 16:14:00,Verified,Retail
+CUST0210,Customer_0210,1971-11-22,Australia,Australia,Government Official,Medium,No,2022-05-19 15:03:00,Expired,Private Banking
+CUST0211,Customer_0211,1986-07-05,Canada,Canada,Retired,Medium,No,2021-05-16 05:48:00,Verified,Retail
+CUST0212,Customer_0212,1963-09-14,Germany,Germany,Government Official,Low,No,2022-05-22 16:08:00,Verified,Retail
+CUST0213,Customer_0213,1983-02-18,UK,UK,Lawyer,Low,No,2019-07-21 08:24:00,Verified,Corporate
+CUST0214,Customer_0214,1997-12-22,Bahamas,Bahamas,Real Estate Agent,High,No,2020-06-24 15:13:00,Pending,Retail
+CUST0215,Customer_0215,1972-12-04,Panama,Panama,Trader,High,No,2020-08-15 22:38:00,Verified,Retail
+CUST0216,Customer_0216,1984-08-18,Australia,Australia,Student,Low,No,2020-12-28 08:23:00,Verified,Retail
+CUST0217,Customer_0217,1980-04-12,Japan,Japan,Student,Low,No,2021-08-01 01:36:00,Pending,Corporate
+CUST0218,Customer_0218,1972-06-08,Singapore,Singapore,Government Official,Low,No,2022-06-16 07:31:00,Verified,Private Banking
+CUST0219,Customer_0219,1991-08-06,Japan,Japan,Student,Low,No,2020-03-18 04:46:00,Verified,Retail
+CUST0220,Customer_0220,1964-11-02,Panama,Panama,Business Owner,High,No,2021-07-29 04:53:00,Verified,Retail
+CUST0221,Customer_0221,1983-01-20,France,France,Banker,Low,No,2021-12-21 21:31:00,Verified,Retail
+CUST0222,Customer_0222,1977-09-10,USA,USA,Business Owner,Low,No,2022-01-29 22:43:00,Verified,Private Banking
+CUST0223,Customer_0223,1975-04-20,UK,UK,Real Estate Agent,Low,No,2020-09-04 11:17:00,Pending,Retail
+CUST0224,Customer_0224,1974-05-22,UAE,UAE,Software Engineer,High,No,2022-12-05 20:48:00,Verified,Retail
+CUST0225,Customer_0225,1960-12-06,Japan,Japan,Software Engineer,Low,Yes,2022-01-24 13:41:00,Pending,Retail
+CUST0226,Customer_0226,1962-04-07,Cayman Islands,Cayman Islands,Banker,High,No,2021-12-05 08:02:00,Expired,Corporate
+CUST0227,Customer_0227,1980-01-07,USA,USA,Banker,Low,No,2020-01-27 22:52:00,Verified,Retail
+CUST0228,Customer_0228,1984-11-18,France,France,Student,Low,No,2021-06-01 23:08:00,Pending,Corporate
+CUST0229,Customer_0229,1987-04-27,Australia,Australia,Software Engineer,Low,Yes,2021-03-04 19:49:00,Verified,Retail
+CUST0230,Customer_0230,1977-08-16,Cyprus,Cyprus,Lawyer,High,Yes,2021-04-04 17:24:00,Verified,Corporate
+CUST0231,Customer_0231,1978-04-23,Cayman Islands,Cayman Islands,Software Engineer,Medium,No,2019-09-22 08:09:00,Verified,Corporate
+CUST0232,Customer_0232,1966-02-01,Singapore,Singapore,Retired,Low,No,2021-10-03 11:48:00,Verified,Retail
+CUST0233,Customer_0233,1992-07-04,Japan,Japan,Business Owner,Low,No,2019-10-07 11:35:00,Verified,Retail
+CUST0234,Customer_0234,1986-07-25,Singapore,Singapore,Software Engineer,Low,Yes,2022-05-26 07:36:00,Verified,Corporate
+CUST0235,Customer_0235,1991-03-03,Canada,Canada,Doctor,Low,No,2021-09-13 08:26:00,Verified,Corporate
+CUST0236,Customer_0236,1991-10-20,France,France,Lawyer,Low,No,2021-10-30 03:08:00,Verified,Private Banking
+CUST0237,Customer_0237,1981-08-11,Singapore,Singapore,Government Official,Low,No,2022-11-30 19:08:00,Verified,Corporate
+CUST0238,Customer_0238,1985-06-10,France,France,Trader,Medium,No,2022-06-29 07:20:00,Verified,Corporate
+CUST0239,Customer_0239,1972-10-18,UK,UK,Doctor,Low,No,2022-05-07 00:46:00,Verified,Corporate
+CUST0240,Customer_0240,1964-07-22,Canada,Canada,Trader,Low,No,2020-01-17 20:19:00,Verified,Corporate
+CUST0241,Customer_0241,1998-08-19,Germany,Germany,Government Official,Medium,Yes,2022-04-05 16:59:00,Expired,Corporate
+CUST0242,Customer_0242,1994-10-21,Australia,Australia,Software Engineer,Low,No,2019-11-16 07:42:00,Verified,Retail
+CUST0243,Customer_0243,1985-06-26,Australia,Australia,Government Official,Medium,No,2019-11-09 00:06:00,Verified,Retail
+CUST0244,Customer_0244,1985-08-25,France,France,Banker,Low,No,2022-01-25 04:22:00,Expired,Retail
+CUST0245,Customer_0245,1969-06-10,UK,UK,Student,Low,No,2021-10-25 06:33:00,Verified,Retail
+CUST0246,Customer_0246,1979-01-26,Japan,Japan,Software Engineer,Low,No,2019-05-23 10:41:00,Verified,Corporate
+CUST0247,Customer_0247,1995-03-11,Bahamas,Bahamas,Real Estate Agent,High,No,2021-08-27 14:14:00,Pending,Corporate
+CUST0248,Customer_0248,1999-04-15,Singapore,Singapore,Banker,Low,No,2021-09-02 12:00:00,Verified,Retail
+CUST0249,Customer_0249,1994-03-12,Cayman Islands,Cayman Islands,Student,Medium,No,2020-05-14 14:07:00,Verified,Private Banking
+CUST0250,Customer_0250,1999-07-19,Australia,Australia,Software Engineer,Low,No,2021-03-19 11:54:00,Verified,Retail
+CUST0251,Customer_0251,1997-02-22,USA,USA,Doctor,Medium,No,2021-01-07 03:15:00,Verified,Retail
+CUST0252,Customer_0252,1998-03-19,Canada,Canada,Government Official,Medium,No,2021-08-20 05:31:00,Verified,Corporate
+CUST0253,Customer_0253,1991-05-05,British Virgin Islands,British Virgin Islands,Doctor,Medium,No,2021-01-10 14:39:00,Verified,Retail
+CUST0254,Customer_0254,1984-09-17,Germany,Germany,Trader,Low,No,2021-07-22 21:31:00,Verified,Corporate
+CUST0255,Customer_0255,1974-05-02,UK,UK,Retired,Low,No,2020-07-10 17:18:00,Verified,Retail
+CUST0256,Customer_0256,1967-10-04,France,France,Retired,Medium,No,2022-04-23 11:34:00,Pending,Retail
+CUST0257,Customer_0257,1987-02-24,Canada,Canada,Lawyer,Medium,No,2020-12-06 01:28:00,Verified,Private Banking
+CUST0258,Customer_0258,1975-04-26,UK,UK,Banker,Low,No,2021-03-25 22:39:00,Verified,Retail
+CUST0259,Customer_0259,1963-10-12,France,France,Real Estate Agent,Low,No,2020-11-02 19:34:00,Verified,Private Banking
+CUST0260,Customer_0260,1992-11-27,Canada,Canada,Software Engineer,Low,No,2020-01-09 13:58:00,Verified,Retail
+CUST0261,Customer_0261,1975-03-23,Japan,Japan,Student,Medium,No,2020-08-25 21:25:00,Verified,Retail
+CUST0262,Customer_0262,1964-11-26,Singapore,Singapore,Software Engineer,Low,No,2021-07-10 16:47:00,Verified,Private Banking
+CUST0263,Customer_0263,1960-12-03,Japan,Japan,Trader,Low,No,2022-10-28 21:44:00,Verified,Retail
+CUST0264,Customer_0264,1973-08-09,France,France,Student,Low,No,2020-11-07 10:35:00,Verified,Retail
+CUST0265,Customer_0265,1963-01-04,Australia,Australia,Trader,Low,No,2019-05-10 03:59:00,Pending,Retail
+CUST0266,Customer_0266,1968-11-10,Singapore,Singapore,Doctor,Low,No,2020-10-19 02:41:00,Verified,Retail
+CUST0267,Customer_0267,1985-11-10,Singapore,Singapore,Lawyer,Medium,No,2021-09-02 20:05:00,Verified,Retail
+CUST0268,Customer_0268,1993-11-15,Germany,Germany,Business Owner,Low,No,2019-04-23 22:21:00,Pending,Private Banking
+CUST0269,Customer_0269,1974-07-03,Germany,Germany,Software Engineer,Low,No,2019-11-04 10:23:00,Pending,Retail
+CUST0270,Customer_0270,1969-02-17,British Virgin Islands,British Virgin Islands,Banker,Medium,No,2019-04-24 19:41:00,Verified,Retail
+CUST0271,Customer_0271,1999-11-15,Germany,Germany,Lawyer,Low,No,2019-10-01 03:08:00,Pending,Retail
+CUST0272,Customer_0272,1968-04-09,Singapore,Singapore,Software Engineer,Low,No,2020-08-27 17:38:00,Verified,Corporate
+CUST0273,Customer_0273,1979-04-17,Japan,Japan,Banker,Medium,Yes,2022-02-13 06:47:00,Verified,Corporate
+CUST0274,Customer_0274,1967-04-16,Bahamas,Bahamas,Banker,Medium,No,2019-08-30 16:56:00,Expired,Private Banking
+CUST0275,Customer_0275,1996-07-12,British Virgin Islands,British Virgin Islands,Real Estate Agent,High,No,2020-03-25 15:49:00,Verified,Retail
+CUST0276,Customer_0276,1963-07-17,France,France,Retired,Low,Yes,2022-10-15 22:32:00,Pending,Retail
+CUST0277,Customer_0277,1979-02-17,Germany,Germany,Lawyer,Low,No,2020-02-19 17:20:00,Verified,Corporate
+CUST0278,Customer_0278,1979-12-14,Singapore,Singapore,Lawyer,Medium,No,2019-08-03 07:05:00,Expired,Retail
+CUST0279,Customer_0279,1971-02-01,Panama,Panama,Doctor,Medium,No,2019-04-30 05:31:00,Expired,Retail
+CUST0280,Customer_0280,1983-03-24,Japan,Japan,Retired,Medium,No,2019-12-04 00:21:00,Pending,Retail
+CUST0281,Customer_0281,1992-06-02,UK,UK,Trader,Low,No,2022-06-10 05:23:00,Verified,Corporate
+CUST0282,Customer_0282,1992-01-02,Cayman Islands,Cayman Islands,Business Owner,High,No,2020-08-19 01:30:00,Verified,Private Banking
+CUST0283,Customer_0283,1986-04-11,USA,USA,Lawyer,Low,No,2021-08-06 23:20:00,Verified,Retail
+CUST0284,Customer_0284,1993-01-13,USA,USA,Software Engineer,Low,No,2021-11-14 09:49:00,Pending,Retail
+CUST0285,Customer_0285,1978-10-26,Panama,Panama,Retired,Medium,No,2022-10-03 07:29:00,Verified,Private Banking
+CUST0286,Customer_0286,1994-04-05,Bahamas,Bahamas,Business Owner,High,No,2021-07-24 00:14:00,Verified,Corporate
+CUST0287,Customer_0287,1960-11-13,Panama,Panama,Retired,Medium,No,2019-11-05 06:33:00,Expired,Retail
+CUST0288,Customer_0288,1965-01-08,British Virgin Islands,British Virgin Islands,Real Estate Agent,High,No,2021-07-30 22:57:00,Verified,Private Banking
+CUST0289,Customer_0289,2000-07-03,UK,UK,Banker,Low,No,2022-06-12 01:27:00,Verified,Retail
+CUST0290,Customer_0290,1985-12-27,Australia,Australia,Student,Low,No,2021-01-17 14:17:00,Verified,Private Banking
+CUST0291,Customer_0291,1970-08-15,UK,UK,Student,Low,No,2021-07-17 03:34:00,Verified,Corporate
+CUST0292,Customer_0292,1967-02-06,Japan,Japan,Retired,Low,No,2022-08-24 01:13:00,Pending,Retail
+CUST0293,Customer_0293,1985-09-02,France,France,Retired,Low,No,2020-09-20 05:01:00,Expired,Private Banking
+CUST0294,Customer_0294,1989-02-26,Canada,Canada,Doctor,Medium,No,2019-12-11 00:03:00,Pending,Private Banking
+CUST0295,Customer_0295,2000-11-03,Singapore,Singapore,Banker,Low,No,2022-07-20 08:58:00,Pending,Retail
+CUST0296,Customer_0296,1965-06-04,Japan,Japan,Business Owner,Low,No,2021-11-06 01:10:00,Expired,Retail
+CUST0297,Customer_0297,1987-03-12,France,France,Lawyer,Medium,Yes,2020-04-24 08:17:00,Verified,Retail
+CUST0298,Customer_0298,1978-08-14,Australia,Australia,Real Estate Agent,Medium,No,2021-12-13 01:05:00,Verified,Retail
+CUST0299,Customer_0299,1994-01-13,France,France,Student,Low,No,2021-12-14 17:50:00,Verified,Private Banking
+CUST0300,Customer_0300,1961-06-20,Singapore,Singapore,Lawyer,Low,No,2019-06-06 08:03:00,Pending,Retail
+CUST0301,Customer_0301,1966-04-22,France,France,Lawyer,Low,No,2020-10-03 17:52:00,Pending,Corporate
+CUST0302,Customer_0302,1984-06-27,Bahamas,Bahamas,Doctor,Medium,No,2020-04-01 07:37:00,Verified,Corporate
+CUST0303,Customer_0303,1982-10-19,USA,USA,Doctor,Low,No,2022-06-03 06:53:00,Expired,Private Banking
+CUST0304,Customer_0304,1962-02-02,Canada,Canada,Lawyer,Low,No,2022-08-21 07:01:00,Verified,Retail
+CUST0305,Customer_0305,1981-12-06,Bahamas,Bahamas,Student,High,No,2019-08-06 00:09:00,Verified,Private Banking
+CUST0306,Customer_0306,1964-06-23,Canada,Canada,Government Official,Medium,No,2022-07-20 03:21:00,Verified,Retail
+CUST0307,Customer_0307,1991-11-11,Singapore,Singapore,Doctor,Low,No,2022-05-31 22:56:00,Expired,Corporate
+CUST0308,Customer_0308,1978-03-06,Germany,Germany,Business Owner,Low,No,2022-06-23 12:54:00,Expired,Private Banking
+CUST0309,Customer_0309,1999-04-21,Australia,Australia,Banker,Low,No,2019-11-06 15:09:00,Verified,Retail
+CUST0310,Customer_0310,1965-12-22,Australia,Australia,Student,Low,No,2021-10-07 00:16:00,Verified,Corporate
+CUST0311,Customer_0311,1963-07-15,UK,UK,Government Official,Low,No,2020-03-12 13:31:00,Pending,Retail
+CUST0312,Customer_0312,1996-11-25,Japan,Japan,Lawyer,Low,No,2020-03-05 14:04:00,Pending,Retail
+CUST0313,Customer_0313,1964-06-06,Canada,Canada,Government Official,Low,No,2020-03-01 23:04:00,Verified,Private Banking
+CUST0314,Customer_0314,1987-11-06,Japan,Japan,Banker,Low,No,2021-09-12 05:03:00,Verified,Retail
+CUST0315,Customer_0315,1979-04-04,Canada,Canada,Business Owner,Low,No,2021-06-19 18:35:00,Pending,Retail
+CUST0316,Customer_0316,2000-10-16,Singapore,Singapore,Lawyer,Low,Yes,2019-10-22 00:13:00,Verified,Retail
+CUST0317,Customer_0317,1985-08-16,UK,UK,Retired,Low,No,2019-10-10 20:34:00,Verified,Retail
+CUST0318,Customer_0318,1976-08-15,Germany,Germany,Retired,Low,No,2020-07-13 08:36:00,Verified,Corporate
+CUST0319,Customer_0319,1994-07-25,Cayman Islands,Cayman Islands,Banker,Medium,No,2020-07-15 17:03:00,Pending,Corporate
+CUST0320,Customer_0320,1975-08-10,Japan,Japan,Software Engineer,Low,No,2021-06-23 22:02:00,Verified,Private Banking
+CUST0321,Customer_0321,1969-02-25,Singapore,Singapore,Trader,Medium,No,2020-03-26 05:13:00,Pending,Retail
+CUST0322,Customer_0322,2000-03-27,Singapore,Singapore,Banker,Low,No,2020-09-16 10:58:00,Verified,Corporate
+CUST0323,Customer_0323,1977-09-15,Singapore,Singapore,Business Owner,Low,No,2022-10-04 18:33:00,Pending,Retail
+CUST0324,Customer_0324,1996-02-26,UK,UK,Retired,Low,No,2022-04-07 11:56:00,Verified,Retail
+CUST0325,Customer_0325,1977-07-05,Japan,Japan,Banker,Low,Yes,2022-09-04 21:44:00,Verified,Retail
+CUST0326,Customer_0326,1990-05-12,Bahamas,Bahamas,Business Owner,High,Yes,2021-02-26 09:19:00,Verified,Retail
+CUST0327,Customer_0327,1974-03-10,Cayman Islands,Cayman Islands,Trader,Medium,No,2021-01-23 08:46:00,Verified,Corporate
+CUST0328,Customer_0328,1986-12-16,France,France,Real Estate Agent,Low,No,2021-05-11 01:32:00,Pending,Retail
+CUST0329,Customer_0329,1993-10-01,Germany,Germany,Doctor,Medium,No,2020-05-05 06:53:00,Verified,Retail
+CUST0330,Customer_0330,1977-06-27,Australia,Australia,Trader,Low,No,2022-02-04 12:40:00,Expired,Corporate
+CUST0331,Customer_0331,1971-08-19,Japan,Japan,Real Estate Agent,Low,No,2021-03-23 11:10:00,Pending,Retail
+CUST0332,Customer_0332,1984-01-06,Cayman Islands,Cayman Islands,Banker,Medium,No,2020-06-18 07:41:00,Verified,Retail
+CUST0333,Customer_0333,1960-08-05,Canada,Canada,Doctor,Medium,Yes,2022-08-20 00:14:00,Verified,Corporate
+CUST0334,Customer_0334,1984-06-15,Canada,Canada,Retired,Low,No,2020-06-26 14:19:00,Verified,Corporate
+CUST0335,Customer_0335,1983-09-21,UK,UK,Banker,Low,Yes,2022-09-05 09:19:00,Verified,Retail
+CUST0336,Customer_0336,1977-05-21,Canada,Canada,Retired,Low,No,2020-04-26 04:33:00,Pending,Private Banking
+CUST0337,Customer_0337,1980-11-05,Australia,Australia,Business Owner,Medium,No,2022-12-09 15:18:00,Verified,Retail
+CUST0338,Customer_0338,1996-04-11,USA,USA,Lawyer,Low,No,2022-04-05 20:50:00,Verified,Private Banking
+CUST0339,Customer_0339,1995-03-10,Canada,Canada,Software Engineer,Low,No,2021-11-26 04:47:00,Verified,Corporate
+CUST0340,Customer_0340,1981-11-03,British Virgin Islands,British Virgin Islands,Lawyer,Medium,No,2021-04-03 07:47:00,Pending,Retail
+CUST0341,Customer_0341,1978-08-28,Cyprus,Cyprus,Software Engineer,High,No,2021-11-25 01:55:00,Verified,Retail
+CUST0342,Customer_0342,1992-02-28,France,France,Government Official,Medium,No,2022-03-27 09:26:00,Verified,Private Banking
+CUST0343,Customer_0343,1996-08-05,France,France,Student,Low,No,2020-04-10 02:31:00,Verified,Private Banking
+CUST0344,Customer_0344,1977-04-25,USA,USA,Doctor,Low,Yes,2022-06-30 05:31:00,Pending,Corporate
+CUST0345,Customer_0345,1985-07-16,Singapore,Singapore,Government Official,Low,No,2019-04-16 01:34:00,Verified,Retail
+CUST0346,Customer_0346,1993-04-01,Australia,Australia,Business Owner,Low,No,2022-10-11 23:15:00,Verified,Private Banking
+CUST0347,Customer_0347,1997-05-06,UK,UK,Software Engineer,Low,No,2019-07-09 09:18:00,Verified,Retail
+CUST0348,Customer_0348,1968-06-16,Singapore,Singapore,Student,Low,No,2020-04-26 05:58:00,Expired,Retail
+CUST0349,Customer_0349,1961-10-17,Germany,Germany,Doctor,Low,No,2019-12-15 11:45:00,Verified,Retail
+CUST0350,Customer_0350,1999-01-20,Malta,Malta,Business Owner,High,No,2022-12-22 03:41:00,Pending,Retail
+CUST0351,Customer_0351,1995-05-16,Japan,Japan,Doctor,Low,No,2020-05-31 22:43:00,Verified,Retail
+CUST0352,Customer_0352,1999-10-23,Singapore,Singapore,Doctor,Medium,No,2021-08-11 03:32:00,Verified,Retail
+CUST0353,Customer_0353,1998-04-25,UK,UK,Retired,Low,No,2022-03-13 06:22:00,Verified,Retail
+CUST0354,Customer_0354,1990-06-08,Japan,Japan,Business Owner,Low,No,2019-05-03 21:05:00,Expired,Corporate
+CUST0355,Customer_0355,1992-02-24,British Virgin Islands,British Virgin Islands,Software Engineer,Medium,No,2020-09-12 20:14:00,Verified,Private Banking
+CUST0356,Customer_0356,1971-01-28,USA,USA,Retired,Low,Yes,2021-04-13 21:20:00,Verified,Retail
+CUST0357,Customer_0357,1968-11-21,Panama,Panama,Doctor,High,Yes,2021-02-08 11:57:00,Verified,Corporate
+CUST0358,Customer_0358,1981-03-04,Cayman Islands,Cayman Islands,Government Official,High,No,2021-07-04 14:17:00,Pending,Corporate
+CUST0359,Customer_0359,1970-02-05,Singapore,Singapore,Business Owner,Low,No,2020-02-27 03:26:00,Expired,Retail
+CUST0360,Customer_0360,1984-06-20,France,France,Business Owner,Medium,No,2019-12-30 15:58:00,Verified,Private Banking
+CUST0361,Customer_0361,1980-01-23,UK,UK,Real Estate Agent,Low,No,2022-06-30 23:36:00,Verified,Private Banking
+CUST0362,Customer_0362,1999-02-14,Nigeria,Nigeria,Lawyer,High,No,2021-12-18 11:42:00,Verified,Retail
+CUST0363,Customer_0363,1999-01-01,Canada,Canada,Doctor,Medium,No,2022-02-05 15:54:00,Verified,Retail
+CUST0364,Customer_0364,1977-01-17,UK,UK,Lawyer,Medium,No,2022-05-08 20:24:00,Verified,Retail
+CUST0365,Customer_0365,1991-08-11,Japan,Japan,Software Engineer,Low,Yes,2022-01-19 23:41:00,Verified,Retail
+CUST0366,Customer_0366,1998-10-21,USA,USA,Retired,Low,No,2022-02-11 17:13:00,Verified,Retail
+CUST0367,Customer_0367,1989-06-18,USA,USA,Banker,Low,No,2022-08-17 15:45:00,Verified,Corporate
+CUST0368,Customer_0368,1982-11-26,France,France,Retired,Low,Yes,2022-05-02 16:23:00,Verified,Retail
+CUST0369,Customer_0369,1986-02-09,Germany,Germany,Banker,Low,No,2020-05-12 06:07:00,Expired,Retail
+CUST0370,Customer_0370,1966-07-02,France,France,Banker,Low,No,2019-12-15 14:29:00,Verified,Private Banking
+CUST0371,Customer_0371,1963-09-14,Japan,Japan,Banker,Low,Yes,2021-12-21 16:49:00,Expired,Retail
+CUST0372,Customer_0372,1966-07-22,Japan,Japan,Banker,Medium,No,2022-08-30 10:32:00,Pending,Retail
+CUST0373,Customer_0373,1977-07-11,Japan,Japan,Retired,Medium,No,2021-10-20 04:08:00,Verified,Corporate
+CUST0374,Customer_0374,1995-06-23,USA,USA,Real Estate Agent,Medium,No,2022-10-23 06:12:00,Verified,Corporate
+CUST0375,Customer_0375,1971-09-18,Singapore,Singapore,Student,Medium,No,2019-11-29 11:35:00,Verified,Retail
+CUST0376,Customer_0376,1994-05-28,Germany,Germany,Government Official,Medium,No,2019-05-03 16:06:00,Verified,Retail
+CUST0377,Customer_0377,1970-05-22,Bahamas,Bahamas,Retired,Medium,No,2020-01-31 01:44:00,Pending,Retail
+CUST0378,Customer_0378,1966-10-28,Australia,Australia,Real Estate Agent,Low,No,2020-07-09 23:41:00,Verified,Retail
+CUST0379,Customer_0379,1963-07-13,Japan,Japan,Government Official,Medium,No,2021-01-06 17:03:00,Verified,Retail
+CUST0380,Customer_0380,2000-12-23,France,France,Student,Medium,No,2022-07-25 17:47:00,Verified,Corporate
+CUST0381,Customer_0381,1964-03-06,Malta,Malta,Real Estate Agent,High,No,2019-12-07 12:02:00,Verified,Retail
+CUST0382,Customer_0382,1989-12-05,Canada,Canada,Business Owner,Low,Yes,2020-02-15 10:38:00,Verified,Private Banking
+CUST0383,Customer_0383,1996-09-12,Singapore,Singapore,Software Engineer,Medium,No,2021-01-16 16:14:00,Expired,Retail
+CUST0384,Customer_0384,1994-07-03,British Virgin Islands,British Virgin Islands,Student,Medium,No,2020-07-03 06:42:00,Verified,Retail
+CUST0385,Customer_0385,1960-02-22,Japan,Japan,Student,Low,No,2021-10-05 07:57:00,Verified,Private Banking
+CUST0386,Customer_0386,1980-07-26,USA,USA,Software Engineer,Low,No,2021-06-05 08:34:00,Verified,Retail
+CUST0387,Customer_0387,1992-08-16,Australia,Australia,Business Owner,Low,No,2020-12-04 20:12:00,Verified,Retail
+CUST0388,Customer_0388,1973-11-21,USA,USA,Lawyer,Low,No,2021-08-22 03:13:00,Verified,Corporate
+CUST0389,Customer_0389,1964-12-22,Seychelles,Seychelles,Doctor,High,No,2019-05-25 14:45:00,Verified,Retail
+CUST0390,Customer_0390,1996-04-09,Canada,Canada,Government Official,Low,No,2021-06-09 14:40:00,Verified,Retail
+CUST0391,Customer_0391,1999-02-25,UK,UK,Banker,Low,No,2019-07-09 22:54:00,Verified,Private Banking
+CUST0392,Customer_0392,1978-08-13,Canada,Canada,Government Official,Low,No,2022-12-20 00:30:00,Verified,Retail
+CUST0393,Customer_0393,2000-03-10,Canada,Canada,Student,Medium,No,2019-04-29 17:55:00,Verified,Retail
+CUST0394,Customer_0394,1965-05-07,Singapore,Singapore,Student,Low,No,2020-06-13 13:57:00,Verified,Retail
+CUST0395,Customer_0395,1976-04-04,France,France,Doctor,Low,No,2022-06-11 01:54:00,Pending,Private Banking
+CUST0396,Customer_0396,1964-05-04,UK,UK,Lawyer,Low,No,2022-07-09 15:21:00,Verified,Corporate
+CUST0397,Customer_0397,1972-06-16,Canada,Canada,Trader,Low,No,2021-02-07 19:42:00,Verified,Retail
+CUST0398,Customer_0398,1987-03-01,UK,UK,Student,Medium,No,2020-08-23 07:45:00,Verified,Retail
+CUST0399,Customer_0399,1981-08-15,British Virgin Islands,British Virgin Islands,Trader,Medium,No,2021-04-10 09:31:00,Verified,Retail
+CUST0400,Customer_0400,1968-09-07,USA,USA,Retired,Medium,No,2022-10-11 02:46:00,Verified,Retail
+CUST0401,Customer_0401,1997-07-25,USA,USA,Banker,Low,No,2020-06-15 01:35:00,Verified,Private Banking
+CUST0402,Customer_0402,1974-10-24,Germany,Germany,Retired,Low,No,2020-01-06 14:32:00,Verified,Retail
+CUST0403,Customer_0403,1999-11-06,France,France,Real Estate Agent,Low,No,2020-01-19 14:10:00,Verified,Private Banking
+CUST0404,Customer_0404,1990-06-02,British Virgin Islands,British Virgin Islands,Lawyer,Medium,No,2021-12-30 07:04:00,Verified,Retail
+CUST0405,Customer_0405,1983-07-16,Canada,Canada,Trader,Medium,No,2019-07-11 01:41:00,Verified,Corporate
+CUST0406,Customer_0406,1976-10-18,Canada,Canada,Banker,Low,No,2020-03-28 12:41:00,Verified,Retail
+CUST0407,Customer_0407,1984-04-17,Cayman Islands,Cayman Islands,Government Official,High,No,2021-03-29 11:31:00,Pending,Private Banking
+CUST0408,Customer_0408,1974-02-17,Germany,Germany,Retired,Low,No,2020-06-13 04:11:00,Verified,Corporate
+CUST0409,Customer_0409,1981-12-04,Singapore,Singapore,Trader,Medium,No,2021-12-12 15:13:00,Verified,Corporate
+CUST0410,Customer_0410,1996-10-06,France,France,Doctor,Low,Yes,2022-10-17 16:02:00,Pending,Retail
+CUST0411,Customer_0411,1985-10-19,Germany,Germany,Business Owner,Low,No,2022-12-22 09:05:00,Verified,Corporate
+CUST0412,Customer_0412,1986-10-05,Japan,Japan,Banker,Low,No,2020-04-13 19:42:00,Verified,Retail
+CUST0413,Customer_0413,1964-04-13,France,France,Government Official,Medium,No,2020-01-02 03:01:00,Verified,Private Banking
+CUST0414,Customer_0414,1998-02-06,Singapore,Singapore,Trader,Low,No,2022-09-17 19:02:00,Pending,Retail
+CUST0415,Customer_0415,1968-10-18,Cayman Islands,Cayman Islands,Business Owner,Medium,No,2022-11-26 13:33:00,Verified,Private Banking
+CUST0416,Customer_0416,1990-07-12,Germany,Germany,Banker,Medium,No,2022-06-29 03:27:00,Verified,Retail
+CUST0417,Customer_0417,1994-07-09,UK,UK,Lawyer,Low,No,2019-04-18 22:47:00,Pending,Retail
+CUST0418,Customer_0418,1973-12-26,USA,USA,Student,Low,No,2021-07-22 11:06:00,Verified,Corporate
+CUST0419,Customer_0419,1999-05-22,Singapore,Singapore,Government Official,Low,No,2020-05-28 13:35:00,Pending,Retail
+CUST0420,Customer_0420,1979-10-12,Japan,Japan,Government Official,Low,No,2020-01-14 21:07:00,Verified,Retail
+CUST0421,Customer_0421,1992-07-26,British Virgin Islands,British Virgin Islands,Student,Medium,No,2022-05-08 19:44:00,Verified,Retail
+CUST0422,Customer_0422,1969-08-20,USA,USA,Government Official,Low,No,2019-10-04 02:16:00,Verified,Retail
+CUST0423,Customer_0423,1985-10-21,Singapore,Singapore,Real Estate Agent,Low,No,2020-11-13 22:38:00,Verified,Corporate
+CUST0424,Customer_0424,1972-11-26,Japan,Japan,Real Estate Agent,Low,No,2020-11-12 06:02:00,Pending,Retail
+CUST0425,Customer_0425,1962-06-08,Australia,Australia,Business Owner,Medium,No,2020-02-23 02:17:00,Pending,Retail
+CUST0426,Customer_0426,1964-02-18,France,France,Retired,Low,No,2022-05-26 18:22:00,Verified,Corporate
+CUST0427,Customer_0427,1985-10-01,France,France,Retired,Low,No,2020-03-30 13:32:00,Verified,Retail
+CUST0428,Customer_0428,1976-09-27,UK,UK,Banker,Low,No,2020-08-31 22:28:00,Expired,Retail
+CUST0429,Customer_0429,1989-11-15,UK,UK,Banker,Medium,No,2019-06-02 15:07:00,Verified,Retail
+CUST0430,Customer_0430,1974-06-14,Bahamas,Bahamas,Student,Medium,No,2022-02-27 17:00:00,Verified,Retail
+CUST0431,Customer_0431,1981-02-18,Singapore,Singapore,Doctor,Low,No,2021-12-07 10:22:00,Verified,Retail
+CUST0432,Customer_0432,1972-04-24,France,France,Lawyer,Low,No,2020-10-01 06:14:00,Verified,Retail
+CUST0433,Customer_0433,1967-02-22,British Virgin Islands,British Virgin Islands,Trader,Medium,No,2022-09-15 00:48:00,Pending,Private Banking
+CUST0434,Customer_0434,1991-10-28,UK,UK,Retired,Medium,No,2022-01-06 05:48:00,Expired,Retail
+CUST0435,Customer_0435,1987-08-18,Germany,Germany,Business Owner,Low,Yes,2022-01-30 11:25:00,Pending,Corporate
+CUST0436,Customer_0436,1989-06-23,UK,UK,Business Owner,Low,No,2019-05-01 21:13:00,Verified,Retail
+CUST0437,Customer_0437,1976-04-09,Canada,Canada,Trader,Low,No,2022-09-13 10:23:00,Verified,Retail
+CUST0438,Customer_0438,1985-05-15,Australia,Australia,Doctor,Low,No,2022-06-20 04:36:00,Verified,Corporate
+CUST0439,Customer_0439,1984-04-05,Bahamas,Bahamas,Doctor,Medium,No,2021-11-30 00:11:00,Verified,Retail
+CUST0440,Customer_0440,1980-08-10,Nigeria,Nigeria,Retired,High,No,2022-06-01 18:03:00,Verified,Corporate
+CUST0441,Customer_0441,2000-02-15,Canada,Canada,Student,Low,No,2020-09-20 11:23:00,Verified,Private Banking
+CUST0442,Customer_0442,1982-11-20,USA,USA,Lawyer,Low,No,2022-07-01 18:41:00,Verified,Retail
+CUST0443,Customer_0443,1992-08-25,UK,UK,Trader,Medium,No,2019-09-14 12:39:00,Verified,Corporate
+CUST0444,Customer_0444,1981-07-21,Germany,Germany,Banker,Low,No,2022-06-20 12:54:00,Expired,Retail
+CUST0445,Customer_0445,1978-12-09,Australia,Australia,Banker,Low,No,2022-11-17 12:17:00,Pending,Corporate
+CUST0446,Customer_0446,1988-07-06,Russia,Russia,Doctor,High,No,2019-05-24 04:46:00,Verified,Retail
+CUST0447,Customer_0447,1970-07-04,Japan,Japan,Software Engineer,Medium,Yes,2019-08-15 15:35:00,Verified,Corporate
+CUST0448,Customer_0448,1999-03-03,UK,UK,Government Official,Low,No,2020-12-30 07:15:00,Verified,Retail
+CUST0449,Customer_0449,1982-06-28,Germany,Germany,Trader,Low,Yes,2021-11-18 17:59:00,Verified,Retail
+CUST0450,Customer_0450,1998-08-21,Nigeria,Nigeria,Banker,High,No,2021-09-13 16:40:00,Verified,Retail
+CUST0451,Customer_0451,1988-05-12,France,France,Government Official,Low,No,2020-09-20 04:19:00,Verified,Retail
+CUST0452,Customer_0452,1990-09-01,British Virgin Islands,British Virgin Islands,Trader,Medium,No,2021-12-09 09:00:00,Pending,Corporate
+CUST0453,Customer_0453,1972-07-18,Panama,Panama,Government Official,Medium,No,2021-06-23 07:10:00,Verified,Corporate
+CUST0454,Customer_0454,1987-11-08,Bahamas,Bahamas,Real Estate Agent,Medium,No,2022-09-13 22:43:00,Verified,Corporate
+CUST0455,Customer_0455,1964-03-05,Canada,Canada,Retired,Low,No,2019-11-19 20:29:00,Verified,Retail
+CUST0456,Customer_0456,1969-01-18,Bahamas,Bahamas,Business Owner,Medium,No,2020-04-21 03:18:00,Verified,Corporate
+CUST0457,Customer_0457,1960-08-07,Bahamas,Bahamas,Student,Medium,Yes,2021-08-14 09:50:00,Pending,Private Banking
+CUST0458,Customer_0458,1969-01-09,USA,USA,Government Official,Low,No,2019-08-31 17:30:00,Verified,Private Banking
+CUST0459,Customer_0459,1967-12-08,Singapore,Singapore,Government Official,Low,No,2021-09-30 07:47:00,Expired,Retail
+CUST0460,Customer_0460,1973-08-13,Cayman Islands,Cayman Islands,Retired,Medium,No,2021-01-27 05:40:00,Verified,Corporate
+CUST0461,Customer_0461,2000-05-07,UK,UK,Student,Low,No,2019-07-22 21:13:00,Expired,Retail
+CUST0462,Customer_0462,1977-10-04,USA,USA,Government Official,Low,No,2020-08-16 00:02:00,Verified,Corporate
+CUST0463,Customer_0463,1965-04-06,British Virgin Islands,British Virgin Islands,Trader,Medium,No,2019-10-11 21:39:00,Verified,Private Banking
+CUST0464,Customer_0464,1969-12-18,Panama,Panama,Software Engineer,Medium,Yes,2019-12-20 15:14:00,Verified,Retail
+CUST0465,Customer_0465,1988-12-07,UK,UK,Business Owner,Medium,No,2021-05-19 11:46:00,Verified,Private Banking
+CUST0466,Customer_0466,1994-12-16,Japan,Japan,Lawyer,Low,No,2022-06-10 05:34:00,Verified,Corporate
+CUST0467,Customer_0467,1969-08-10,Germany,Germany,Retired,Low,Yes,2022-04-20 11:29:00,Verified,Corporate
+CUST0468,Customer_0468,1999-06-25,Germany,Germany,Banker,Low,No,2020-08-08 10:46:00,Verified,Private Banking
+CUST0469,Customer_0469,1991-09-05,Bahamas,Bahamas,Banker,Medium,No,2020-11-06 10:26:00,Verified,Retail
+CUST0470,Customer_0470,1968-03-28,UK,UK,Business Owner,Low,Yes,2020-05-24 03:31:00,Verified,Retail
+CUST0471,Customer_0471,1993-10-23,Germany,Germany,Banker,Medium,No,2020-09-12 01:23:00,Verified,Corporate
+CUST0472,Customer_0472,1965-08-26,France,France,Business Owner,Low,No,2021-04-15 17:47:00,Expired,Retail
+CUST0473,Customer_0473,1977-09-02,USA,USA,Software Engineer,Low,No,2020-12-19 02:13:00,Expired,Retail
+CUST0474,Customer_0474,1972-09-22,Canada,Canada,Lawyer,Medium,No,2022-06-17 20:11:00,Verified,Retail
+CUST0475,Customer_0475,1989-12-22,Singapore,Singapore,Government Official,Medium,No,2019-11-06 05:50:00,Verified,Retail
+CUST0476,Customer_0476,1998-08-12,Germany,Germany,Student,Low,No,2022-05-07 10:54:00,Verified,Corporate
+CUST0477,Customer_0477,1996-09-07,Australia,Australia,Government Official,Low,No,2022-05-07 23:16:00,Verified,Retail
+CUST0478,Customer_0478,1978-10-01,Panama,Panama,Real Estate Agent,High,No,2020-01-08 09:00:00,Verified,Retail
+CUST0479,Customer_0479,1977-09-17,Panama,Panama,Real Estate Agent,High,No,2022-06-18 18:09:00,Verified,Retail
+CUST0480,Customer_0480,1997-04-08,Canada,Canada,Retired,Low,No,2020-12-12 02:36:00,Verified,Private Banking
+CUST0481,Customer_0481,1990-03-16,Japan,Japan,Banker,Medium,No,2019-10-19 19:41:00,Verified,Corporate
+CUST0482,Customer_0482,1981-06-27,Cayman Islands,Cayman Islands,Government Official,Medium,No,2021-08-07 03:55:00,Pending,Corporate
+CUST0483,Customer_0483,2000-07-02,Panama,Panama,Retired,Medium,No,2022-03-15 01:20:00,Verified,Retail
+CUST0484,Customer_0484,1985-08-25,France,France,Banker,Low,No,2022-06-28 16:05:00,Verified,Retail
+CUST0485,Customer_0485,1990-10-24,Germany,Germany,Business Owner,Low,No,2022-05-03 12:16:00,Verified,Retail
+CUST0486,Customer_0486,1990-09-07,British Virgin Islands,British Virgin Islands,Trader,Medium,No,2021-06-24 20:36:00,Verified,Corporate
+CUST0487,Customer_0487,1977-07-11,Bahamas,Bahamas,Banker,Medium,No,2019-10-07 03:42:00,Verified,Retail
+CUST0488,Customer_0488,1961-05-06,Australia,Australia,Student,Low,No,2022-09-20 14:39:00,Verified,Retail
+CUST0489,Customer_0489,1969-12-28,Bahamas,Bahamas,Software Engineer,Medium,No,2019-11-23 23:03:00,Verified,Corporate
+CUST0490,Customer_0490,1967-05-15,Canada,Canada,Trader,Low,Yes,2019-05-23 10:13:00,Verified,Retail
+CUST0491,Customer_0491,1999-12-05,Canada,Canada,Business Owner,Low,No,2021-05-17 18:57:00,Verified,Retail
+CUST0492,Customer_0492,1999-05-02,Canada,Canada,Trader,Low,No,2022-12-07 00:04:00,Verified,Retail
+CUST0493,Customer_0493,1961-05-28,Cyprus,Cyprus,Government Official,High,No,2020-07-23 12:32:00,Expired,Retail
+CUST0494,Customer_0494,1992-08-18,UK,UK,Business Owner,Low,No,2019-06-27 07:59:00,Verified,Retail
+CUST0495,Customer_0495,1982-06-21,Germany,Germany,Retired,Low,Yes,2020-08-02 16:17:00,Pending,Corporate
+CUST0496,Customer_0496,1977-04-05,Panama,Panama,Student,High,No,2021-06-19 21:08:00,Verified,Retail
+CUST0497,Customer_0497,1974-07-08,Russia,Russia,Banker,High,No,2020-02-13 13:19:00,Expired,Retail
+CUST0498,Customer_0498,1997-09-22,France,France,Lawyer,Low,No,2020-01-14 09:44:00,Verified,Retail
+CUST0499,Customer_0499,1996-03-11,Germany,Germany,Software Engineer,Low,No,2022-05-22 17:46:00,Verified,Retail
+CUST0500,Customer_0500,1986-07-10,Panama,Panama,Trader,High,No,2022-11-01 23:17:00,Verified,Retail

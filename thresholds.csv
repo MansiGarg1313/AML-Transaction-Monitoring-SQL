@@ -1,0 +1,21 @@
+threshold_id,scenario_name,parameter,threshold_value,effective_date,last_tuned_date,tuned_by,status,false_positive_rate_before,false_positive_rate_after
+THR001,Structuring,Amount,3,2022-01-01,2022-11-15 12:35:00,Analyst_05,Deprecated,47.5,18.0
+THR002,Rapid Movement,Frequency,10000,2022-01-01,2023-07-19 16:05:00,Analyst_03,Active,27.1,12.7
+THR003,High-Risk Geography,Velocity,9999,2022-01-01,2024-01-27 13:38:00,Analyst_05,Active,41.0,18.7
+THR004,Dormant Account Activity,Country Risk Score,9999,2022-01-01,2024-02-01 17:41:00,Analyst_01,Active,44.7,19.7
+THR005,PEP Transaction,Amount,9999,2022-01-01,2023-06-19 19:07:00,Analyst_05,Active,33.4,21.7
+THR006,Unusual Cash Pattern,Frequency,50000,2022-01-01,2023-03-05 07:40:00,Analyst_03,Deprecated,38.8,17.6
+THR007,Layering,Velocity,10000,2022-01-01,2022-08-28 14:43:00,Analyst_02,Active,37.0,14.3
+THR008,Round-Trip Transaction,Country Risk Score,3,2022-01-01,2022-06-10 11:26:00,Analyst_03,Active,40.5,19.4
+THR009,Structuring,Amount,5000,2022-01-01,2022-10-15 08:17:00,Analyst_04,Active,42.9,17.8
+THR010,Rapid Movement,Frequency,3,2022-01-01,2024-01-16 11:09:00,Analyst_03,Active,48.2,18.7
+THR011,High-Risk Geography,Velocity,50000,2022-01-01,2022-10-18 22:03:00,Analyst_05,Active,24.6,19.5
+THR012,Dormant Account Activity,Country Risk Score,70,2022-01-01,2024-05-29 09:14:00,Analyst_02,Active,37.1,12.8
+THR013,PEP Transaction,Amount,10,2022-01-01,2023-12-21 01:30:00,Analyst_04,Active,28.3,11.6
+THR014,Unusual Cash Pattern,Frequency,50000,2022-01-01,2023-07-14 07:12:00,Analyst_02,Deprecated,35.6,22.8
+THR015,Layering,Velocity,50000,2022-01-01,2023-04-25 19:14:00,Analyst_01,Active,33.1,19.9
+THR016,Round-Trip Transaction,Country Risk Score,70,2022-01-01,2023-10-13 11:33:00,Analyst_03,Active,30.5,24.4
+THR017,Structuring,Amount,50000,2022-01-01,2024-01-31 04:49:00,Analyst_03,Active,35.1,16.3
+THR018,Rapid Movement,Frequency,5000,2022-01-01,2022-07-15 22:25:00,Analyst_05,Active,33.1,10.4
+THR019,High-Risk Geography,Velocity,5,2022-01-01,2023-03-29 08:42:00,Analyst_02,Active,45.5,16.8
+THR020,Dormant Account Activity,Country Risk Score,9999,2022-01-01,2024-03-25 09:04:00,Analyst_03,Under Review,31.0,21.0
